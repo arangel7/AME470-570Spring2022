@@ -1,2 +1,2 @@
-# AME470-570Spring2022
-Adrian Rangel 1213559995
+AME 470: Programming for Soc & Int Med 
+The development of Web applications and services. Creates modern dynamic Web applications using open source technologies.
